@@ -6,7 +6,7 @@ using System.Text.RegularExpressions;
 
 namespace SpencerStuart
 {
-    public class SafestPlaceInTheGalaxyModified
+    public class SafestPlaceInTheGalaxy
     {
         StreamReader input;
 		StreamWriter output;
@@ -30,7 +30,7 @@ namespace SpencerStuart
 
 		public static void Main()
 		{
-			new SafestPlaceInTheGalaxyModified().run();
+			new SafestPlaceInTheGalaxy().run();
 		}
 
 		public void run()
