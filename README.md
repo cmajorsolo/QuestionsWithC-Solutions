@@ -8,7 +8,7 @@ The format is bit strange on git. It looks good on my Mac. Don't know why it cha
 All the files are excuatable. Feel free to run. Enjoy :)  
 
 # Questions
-The Safest Place is the answer of Facebook Hacker Cup 2011 Final's question. The question is below. 
+The Safest Place In The Galaxy is the answer of Facebook Hacker Cup 2011 Final's question. The question is below. 
 
 While en route to the 295th annual Galactic Dance Party on Risa, you find yourself unceremoniously yanked out of hyperspace and, according to your sensors, surrounded by N space bombs.  Apparently caught in a trap laid out by some dastardly and unknown enemy, and unable to return to hyperspace, you must find the safest place in the vicinity to weather the detonation of all the space bombs.  Your unseen opponent has constructed a cube-shaped space anomaly that you are unable to leave, so your options are limited to points within that cube.
  
