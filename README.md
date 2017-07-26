@@ -21,6 +21,6 @@ Output
 Output T integers, one per test case each on its own line, representing the square of distance to the nearest bomb from the safest point in the cube.
  
 Constraints
-T = 50
-1 N 
-All bombs coordinates will be in [0, 1000], both inclusive.
+T = 50  
+1 N  
+All bombs coordinates will be in [0, 1000], both inclusive.  
